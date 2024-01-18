@@ -35,6 +35,7 @@ color: var(--text-color);
     width: 360px;
     margin: 56px auto 0px;
     padding: 0 24px;
+    max-width: 588px;
      }
      /*profile*/ 
 #profile img {
